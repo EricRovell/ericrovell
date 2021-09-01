@@ -32,9 +32,5 @@ Languages, tools, and others things I use the most:
 ## Github stats
 
 <div>
-	<img alt="My Github stats" src="https://github-readme-stats.vercel.app/api?username=ericrovell&theme=tokyonight" />
-</div>
-
-<div>
 	<img alt="Top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrovell&layout=compact&theme=tokyonight" />
 </div>
