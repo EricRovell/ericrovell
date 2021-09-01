@@ -4,6 +4,13 @@ Nice to meet you! I am Eric Rovell.
 
 I am passionate about web development and photography. I like to develop small open source mathematical libraries.
 
+I am passionate about web development and photography. I like to develop small open source libraries.
+
+The current list of math related libraries:
+
+- [rational](https://github.com/EricRovell/rational): Rational is rational numbers library written in JavaScript;
+- [radix](https://github.com/EricRovell/radix): Radix is a JS library for radix number transformations and manipulations.;
+
 ## Technologies
 
 Languages, tools, and others things I use the most:
