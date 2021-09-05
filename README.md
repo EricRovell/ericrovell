@@ -2,8 +2,6 @@
 
 Nice to meet you! I am Eric Rovell.
 
-I am passionate about web development and photography. I like to develop small open source mathematical libraries.
-
 I am passionate about web development and photography. I like to develop small open source libraries.
 
 The current list of math related libraries:
