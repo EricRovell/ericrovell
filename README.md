@@ -22,12 +22,12 @@ I am passionate about web development, science, and photography.
 
 ### Legacy or not currently maintained
 
-- [numbers](https://numbers-ruby.vercel.app/): educative web-application to learn about number bases;
-- [Wise Cookie](https://www.wisecookie.net/): An inspirational daily phrases generator;
-- [blossom:app](https://ericrovell.github.io/blossom-web/): web-application for color manipulations and transformations;
-- [blossom](https://github.com/EricRovell/blossom): JS library tool for color manipulations and transformations;
-- [tic-tac-toe](https://tic-tac-toe-weld-eight.vercel.app/): Simple web-based tic-tac-toe game;
-- [radix](https://radix.vercel.app/): considered to be a new version of `numbers` application from this list, frozen project currently;
+- [numbers](https://numbers-ruby.vercel.app/) — educative web-application to learn about number bases;
+- [Wise Cookie](https://www.wisecookie.net/) — An inspirational daily phrases generator;
+- [blossom:app](https://ericrovell.github.io/blossom-web/) — web-application for color manipulations and transformations;
+- [blossom](https://github.com/EricRovell/blossom) — JS library tool for color manipulations and transformations;
+- [tic-tac-toe](https://tic-tac-toe-weld-eight.vercel.app/) — Simple web-based tic-tac-toe game;
+- [radix](https://radix.vercel.app/) — considered to be a new version of `numbers` application from this list, frozen project currently;
 
 ## Technologies
 
