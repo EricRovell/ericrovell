@@ -9,15 +9,15 @@ I am passionate about web development, science, and photography.
 ### Maintained
 
 - [Escapist Marginalia](https://escapist-marginalia.vercel.app/) — Personal "escapism corner" of mine;
-- [Illumination Schedule SPb](https://illumination-schedule-spb.vercel.app/) — Web-application based city illumination schedule provider for Saint-Petersburg, Russia;
-- [vector](https://github.com/EricRovell/vector) — Euclidian vector library written in JavaScript;
+- [photo-companion](https://photo-companion.vercel.app/) — Minimalistic photography toolkit progressive web application;
+- [vector](https://github.com/EricRovell/vector) — Euclidean vector library written in JavaScript;
 - [rational](https://github.com/EricRovell/rational) — rational numbers library written in JavaScript;
 - [radix](https://github.com/EricRovell/radix) — radix number transformations and manipulations library;
 - [svelte-media-observer](https://github.com/EricRovell/svelte-media-observer) — SvelteJS media queries observer;
 
 ### Open-source contributions
 
-- [slidy](https://github.com/Valexr/Slidy) — simple & configurable sliding behaviour action script with it's ecosystem;
+- [slidy](https://github.com/Valexr/Slidy) — simple & configurable sliding behavior action script with it's ecosystem;
 - [colord](https://github.com/omgovich/colord) — a tiny yet powerful tool for high-performance color manipulations and conversions;
 
 ### Legacy or not currently maintained
