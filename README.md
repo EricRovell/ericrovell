@@ -1,76 +1,107 @@
-# Hello World!
+# Hello World
 
 Hello World, I am Eric!
 
-I am passionate about web development, science, and photography.
+I am passionate about web-development, natural sciences, and photography.
 
 ## Projects
 
 ### Maintained
 
-- [Escapist Marginalia](https://escapist-marginalia.vercel.app/) — Personal "escapism corner" of mine;
-- [photo-companion](https://photo-companion.vercel.app/) — Minimalistic photography toolkit progressive web application;
-- [vector](https://github.com/EricRovell/vector) — Euclidean vector library written in JavaScript;
-- [rational](https://github.com/EricRovell/rational) — rational numbers library written in JavaScript;
-- [radix](https://github.com/EricRovell/radix) — radix number transformations and manipulations library;
-- [svelte-media-observer](https://github.com/EricRovell/svelte-media-observer) — SvelteJS media queries observer;
+- [[repository]][escapist-marginalia:repo] [[demo]][escapist-marginalia:demo] **Escapist Marginalia** — personal "escapism corner" of mine;
+- [[repository]][photo-companion:repo] [[demo]][photo-companion:demo] **Photo Companion** — minimalistic photography toolkit progressive web application;
+- [[repository]][vector:repo] [[npm]][vector:npm] **vector** — euclidean vector library written in JavaScript;
+- [[repository]][rational:repo] [[npm]][rational:npm] **rational** — rational numbers library written in JavaScript;
+- [[repository]][radix:repo] [[npm]][radix:npm] **radix** — radix number transformations and manipulations library;
 
 ### Open-source contributions
 
-- [slidy](https://github.com/Valexr/Slidy) — simple & configurable sliding behavior action script with it's ecosystem;
-- [colord](https://github.com/omgovich/colord) — a tiny yet powerful tool for high-performance color manipulations and conversions;
+- [[repository]][slidy:repo] [[npm]][slidy:npm] [[demo]][slidy:demo] **slidy/svelte** — simple & configurable sliding behavior action script with it's ecosystem;
+- [[repository]][colord:repo] [[npm]][colord:npm] [[demo]][colord:demo] **colord** — a tiny yet powerful tool for high-performance color manipulations and conversions;
 
 ### Legacy or not currently maintained
 
-- [numbers](https://numbers-ruby.vercel.app/) — educative web-application to learn about number bases;
-- [Wise Cookie](https://www.wisecookie.net/) — An inspirational daily phrases generator;
-- [blossom:app](https://ericrovell.github.io/blossom-web/) — web-application for color manipulations and transformations;
-- [blossom](https://github.com/EricRovell/blossom) — JS library tool for color manipulations and transformations;
-- [tic-tac-toe](https://tic-tac-toe-weld-eight.vercel.app/) — Simple web-based tic-tac-toe game;
-- [radix](https://radix.vercel.app/) — considered to be a new version of `numbers` application from this list, frozen project currently;
+- [[repository]][numbers:old:repo] [[demo]][numbers:old:demo] **Numbers** — educative web-application to learn about number bases;
+- [[repository]][wise-cookie:repo] [[demo]][wise-cookie:demo] **Wise Cookie** — An inspirational daily phrases generator;
+- [[repository]][blossom:repo] [[npm]][blossom:npm] [[demo]][blossom:demo] **blossom** — JS library tool for color manipulations and transformations;
+- [[repository]][tic-tac-toe:repo] [[demo]][tic-tac-toe:demo] **Tic-Tac-Toe** — Simple web-based tic-tac-toe game;
+- [[repository]][radix:app:repo] [[demo]][radix:app:demo] **radix** — considered to be a new version of `numbers` application from this list, frozen project;
+- [[repository]][svelte-media-observer:repo] [[npm]][svelte-media-observer:npm] [[demo]][svelte-media-observer:demo] **Svelte Media Observer** — SvelteJS media queries observer;
 
 ## Technologies
 
 Languages, tools, and others things I use the most:
 
-### Basic
+## Basic
 
-<div>
-	<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-	<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+- HTML;
+- CSS;
+- JavaScript;
+- [TypeScript](https://www.typescriptlang.org/);
+- [NodeJs](https://nodejs.org/);
+- [Python](https://www.python.org/);
 
-### UI Libraries
+## UI Libraries
 
-<div>
-	<img alt="SvelteJS" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-	<img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" />
-	<img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+- [svelte](https://svelte.dev/);
+- [solid](https://www.solidjs.com/);
+- [react](https://react.dev/);
 
-### Web Frameworks
+## Web-frameworks
 
-<div>
-	<img alt="SvelteKit" src="https://img.shields.io/badge/Svelte Kit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-	<img alt="AstroJS" src="https://img.shields.io/badge/Astro-143055?style=for-the-badge&logo=astro&logoColor=FF3E00" />
-	<img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</div>
+- [SvelteKit](https://kit.svelte.dev/);
+- [Astro](https://astro.build/);
+- [Next](https://nextjs.org/);
 
-### Others
+## Others
 
-<div>
-	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-	<img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-	<img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />
-	<img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
+- [latex](https://www.latex-project.org/);
+- [mdx](https://mdxjs.com/);
+- [pnpm](https://pnpm.io/);
+- [vite](https://vitejs.dev/);
+- [esbuild](https://esbuild.github.io/);
 
-## Github stats
+<!-- reference links -->
 
-<div>
-	<img alt="Top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrovell&layout=compact&theme=tokyonight" />
-</div>
+[escapist-marginalia:repo]: https://github.com/EricRovell/escapist-marginalia
+[escapist-marginalia:demo]: https://escapist-marginalia.vercel.app
+
+[photo-companion:repo]: https://github.com/EricRovell/photo-companion
+[photo-companion:demo]: https://photo-companion.vercel.app
+
+[vector:repo]: https://github.com/EricRovell/vector
+[vector:npm]: https://www.npmjs.com/package/@ericrovell/vector
+
+[rational:repo]: https://github.com/EricRovell/rational
+[rational:npm]: https://www.npmjs.com/package/@ericrovell/rational
+
+[radix:repo]: https://github.com/EricRovell/radix
+[radix:npm]: https://www.npmjs.com/package/@ericrovell/radix
+
+[slidy:repo]: https://github.com/Valexr/Slidy
+[slidy:npm]: https://www.npmjs.com/package/@slidy/svelte
+[slidy:demo]: https://slidy-core.surge.sh/
+
+[colord:repo]: https://github.com/omgovich/colord
+[colord:npm]: https://npmjs.org/package/colord
+[colord:demo]: https://colord.omgovich.ru/
+
+[numbers:old:repo]: https://github.com/EricRovell/numbers-old
+[numbers:old:demo]: https://numbers-ruby.now.sh/
+
+[wise-cookie:repo]: https://github.com/EricRovell/wise-cookie
+[wise-cookie:demo]: https://www.wisecookie.net/
+
+[blossom:repo]: https://github.com/EricRovell/blossom
+[blossom:npm]: https://www.npmjs.com/package/@ericrovell/blossom
+[blossom:demo]: https://ericrovell.github.io/blossom-web/
+
+[tic-tac-toe:repo]: https://github.com/EricRovell/tic-tac-toe
+[tic-tac-toe:demo]: https://tic-tac-toe-weld-eight.vercel.app/
+
+[radix:app:repo]: https://github.com/EricRovell/numbers
+[radix:app:demo]: https://radix.vercel.app/
+
+[svelte-media-observer:repo]: https://github.com/EricRovell/svelte-media-observer
+[svelte-media-observer:npm]: https://www.npmjs.com/package/svelte-media-observer
+[svelte-media-observer:demo]: https://svelte.dev/repl/e9f6a16dfd9a4013b1a0a76347b206eb?version=3
