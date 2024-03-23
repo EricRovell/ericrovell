@@ -8,25 +8,25 @@ I am passionate about web-development, natural sciences, and photography.
 
 ### Maintained
 
-- [[repository]][escapist-marginalia:repo] [[demo]][escapist-marginalia:demo] **Escapist Marginalia** — personal "escapism corner" of mine;
-- [[repository]][photo-companion:repo] [[demo]][photo-companion:demo] **Photo Companion** — minimalistic photography toolkit progressive web application;
-- [[repository]][vector:repo] [[npm]][vector:npm] **vector** — euclidean vector library written in JavaScript;
-- [[repository]][rational:repo] [[npm]][rational:npm] **rational** — rational numbers library written in JavaScript;
-- [[repository]][radix:repo] [[npm]][radix:npm] **radix** — radix number transformations and manipulations library;
+- [<img src="./assets/icon-github.svg" width="14">][escapist-marginalia:repo] [<img src="./assets/icon-link.svg" width="14">][escapist-marginalia:demo] **Escapist Marginalia** — personal "escapism corner" of mine;
+- [<img src="./assets/icon-github.svg" width="14">][photo-companion:repo] [<img src="./assets/icon-link.svg" width="14">][photo-companion:demo] **Photo Companion** — minimalistic photography toolkit progressive web application;
+- [<img src="./assets/icon-github.svg" width="14">][vector:repo] [<img src="./assets/icon-npm.svg" width="14">][vector:npm] **vector** — euclidean vector library written in JavaScript;
+- [<img src="./assets/icon-github.svg" width="14">][rational:repo] [<img src="./assets/icon-npm.svg" width="14">][rational:npm] **rational** — rational numbers library written in JavaScript;
+- [<img src="./assets/icon-github.svg" width="14">][radix:repo] [<img src="./assets/icon-npm.svg" width="14">][radix:npm] **radix** — radix number transformations and manipulations library;
 
 ### Open-source contributions
 
-- [[repository]][slidy:repo] [[npm]][slidy:npm] [[demo]][slidy:demo] **slidy/svelte** — simple & configurable sliding behavior action script with it's ecosystem;
-- [[repository]][colord:repo] [[npm]][colord:npm] [[demo]][colord:demo] **colord** — a tiny yet powerful tool for high-performance color manipulations and conversions;
+- [<img src="./assets/icon-github.svg" width="14">][slidy:repo] [<img src="./assets/icon-npm.svg" width="14">][slidy:npm] [<img src="./assets/icon-link.svg" width="14">][slidy:demo] **slidy/svelte** — simple & configurable sliding behavior action script with it's ecosystem;
+- [<img src="./assets/icon-github.svg" width="14">][colord:repo] [<img src="./assets/icon-npm.svg" width="14">][colord:npm] [<img src="./assets/icon-link.svg" width="14">][colord:demo] **colord** — a tiny yet powerful tool for high-performance color manipulations and conversions;
 
 ### Legacy or not currently maintained
 
-- [[repository]][numbers:old:repo] [[demo]][numbers:old:demo] **Numbers** — educative web-application to learn about number bases;
-- [[repository]][wise-cookie:repo] [[demo]][wise-cookie:demo] **Wise Cookie** — An inspirational daily phrases generator;
-- [[repository]][blossom:repo] [[npm]][blossom:npm] [[demo]][blossom:demo] **blossom** — JS library tool for color manipulations and transformations;
-- [[repository]][tic-tac-toe:repo] [[demo]][tic-tac-toe:demo] **Tic-Tac-Toe** — Simple web-based tic-tac-toe game;
-- [[repository]][radix:app:repo] [[demo]][radix:app:demo] **radix** — considered to be a new version of `numbers` application from this list, frozen project;
-- [[repository]][svelte-media-observer:repo] [[npm]][svelte-media-observer:npm] [[demo]][svelte-media-observer:demo] **Svelte Media Observer** — SvelteJS media queries observer;
+- [<img src="./assets/icon-github.svg" width="14">][numbers:old:repo] [<img src="./assets/icon-link.svg" width="14">][numbers:old:demo] **Numbers** — educative web-application to learn about number bases;
+- [<img src="./assets/icon-github.svg" width="14">][wise-cookie:repo] [<img src="./assets/icon-link.svg" width="14">][wise-cookie:demo] **Wise Cookie** — An inspirational daily phrases generator;
+- [<img src="./assets/icon-github.svg" width="14">][blossom:repo] [<img src="./assets/icon-npm.svg" width="14">][blossom:npm] [<img src="./assets/icon-link.svg" width="14">][blossom:demo] **blossom** — JS library tool for color manipulations and transformations;
+- [<img src="./assets/icon-github.svg" width="14">][tic-tac-toe:repo] [<img src="./assets/icon-link.svg" width="14">][tic-tac-toe:demo] **Tic-Tac-Toe** — Simple web-based tic-tac-toe game;
+- [<img src="./assets/icon-github.svg" width="14">][radix:app:repo] [<img src="./assets/icon-link.svg" width="14">][radix:app:demo] **radix** — considered to be a new version of `numbers` application from this list, frozen project;
+- [<img src="./assets/icon-github.svg" width="14">][svelte-media-observer:repo] [<img src="./assets/icon-npm.svg" width="14">][svelte-media-observer:npm] [<img src="./assets/icon-link.svg" width="14">][svelte-media-observer:demo] **Svelte Media Observer** — SvelteJS media queries observer;
 
 ## Technologies
 
@@ -34,32 +34,29 @@ Languages, tools, and others things I use the most:
 
 ## Basic
 
-- HTML;
-- CSS;
-- JavaScript;
-- [TypeScript](https://www.typescriptlang.org/);
-- [NodeJs](https://nodejs.org/);
-- [Python](https://www.python.org/);
+<img src="./assets/icon-html.svg" alt="HTML" title="HTML" width="32">
+<img src="./assets/icon-css.svg" alt="CSS" title="CSS" width="32">
+<img src="./assets/icon-js.svg" alt="JavaScript" title="JavaScript" width="32"> 
+<img src="./assets/icon-ts.svg" alt="TypeScript" title="TypeScript" width="32">
+
+<img src="./assets/icon-nodejs.svg" alt="NodeJs" title="NodeJs" width="32">
+<img src="./assets/icon-python.svg" alt="Python" title="Python" width="32">
 
 ## UI Libraries
 
-- [svelte](https://svelte.dev/);
-- [solid](https://www.solidjs.com/);
-- [react](https://react.dev/);
+<img src="./assets/icon-svelte.svg" alt="Svelte" title="Svelte" width="32">
+<img src="./assets/icon-react.svg" alt="React" title="React" width="32">
+<img src="./assets/icon-solid.svg" alt="Solid" title="Solid" width="32">
 
 ## Web-frameworks
 
-- [SvelteKit](https://kit.svelte.dev/);
-- [Astro](https://astro.build/);
-- [Next](https://nextjs.org/);
+<img src="./assets/icon-svelte.svg" alt="SvelteKit" title="SvelteKit" width="32">
+<img src="./assets/icon-astro.svg" alt="Astro" title="Astro" width="32">
+<img src="./assets/icon-nextjs.svg" alt="NextJs" title="NextJs" width="32">
 
 ## Others
 
-- [latex](https://www.latex-project.org/);
-- [mdx](https://mdxjs.com/);
-- [pnpm](https://pnpm.io/);
-- [vite](https://vitejs.dev/);
-- [esbuild](https://esbuild.github.io/);
+[LaTEX](https://www.latex-project.org/), [MDX](https://mdxjs.com/), [pnpm](https://pnpm.io/), [vite](https://vitejs.dev/), [esbuild](https://esbuild.github.io/).
 
 <!-- reference links -->
 
