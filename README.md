@@ -34,25 +34,17 @@ Languages, tools, and others things I use the most:
 
 ## Basic
 
-<img src="./assets/icon-html.svg" alt="HTML" title="HTML" width="32">
-<img src="./assets/icon-css.svg" alt="CSS" title="CSS" width="32">
-<img src="./assets/icon-js.svg" alt="JavaScript" title="JavaScript" width="32"> 
-<img src="./assets/icon-ts.svg" alt="TypeScript" title="TypeScript" width="32">
+<img src="./assets/icon-html.svg" alt="HTML" title="HTML" width="32"> <img src="./assets/icon-css.svg" alt="CSS" title="CSS" width="32"> <img src="./assets/icon-js.svg" alt="JavaScript" title="JavaScript" width="32"> <img src="./assets/icon-ts.svg" alt="TypeScript" title="TypeScript" width="32">
 
-<img src="./assets/icon-nodejs.svg" alt="NodeJs" title="NodeJs" width="32">
-<img src="./assets/icon-python.svg" alt="Python" title="Python" width="32">
+<img src="./assets/icon-nodejs.svg" alt="NodeJs" title="NodeJs" width="32"> <img src="./assets/icon-python.svg" alt="Python" title="Python" width="32">
 
 ## UI Libraries
 
-<img src="./assets/icon-svelte.svg" alt="Svelte" title="Svelte" width="32">
-<img src="./assets/icon-react.svg" alt="React" title="React" width="32">
-<img src="./assets/icon-solid.svg" alt="Solid" title="Solid" width="32">
+<img src="./assets/icon-svelte.svg" alt="Svelte" title="Svelte" width="32"> <img src="./assets/icon-react.svg" alt="React" title="React" width="32"> <img src="./assets/icon-solid.svg" alt="Solid" title="Solid" width="32">
 
 ## Web-frameworks
 
-<img src="./assets/icon-svelte.svg" alt="SvelteKit" title="SvelteKit" width="32">
-<img src="./assets/icon-astro.svg" alt="Astro" title="Astro" width="32">
-<img src="./assets/icon-nextjs.svg" alt="NextJs" title="NextJs" width="32">
+<img src="./assets/icon-svelte.svg" alt="SvelteKit" title="SvelteKit" width="32"> <img src="./assets/icon-astro.svg" alt="Astro" title="Astro" width="32"> <img src="./assets/icon-nextjs.svg" alt="NextJs" title="NextJs" width="32">
 
 ## Others
 
